@@ -1,0 +1,11 @@
+{
+  "name": "edna-kuhn-podologia",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Site institucional de Edna Kuhn Podologia",
+  "scripts": {
+    "dev": "node server.cjs",
+    "start": "node server.cjs",
+    "check": "node --check dist/app.js && node --check dist/config.js && node --check server.cjs"
+  }
+}

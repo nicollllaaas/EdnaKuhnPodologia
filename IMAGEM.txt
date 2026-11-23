@@ -1,0 +1,6 @@
+Imagem: dist/assets/cuidado-pes.png
+Ferramenta: image_gen, modo integrado.
+Fotografia ilustrativa gerada por IA, sem retratar Edna Kuhn ou seu consultório.
+
+Prompt final:
+Use case: photorealistic-natural. Asset type: portrait hero photograph for an elegant Brazilian podiatry website, image illustrative, not a real clinic. Subject: close-up of a female adult patient's natural bare foot and ankle resting on a folded soft ivory cotton towel, two hands wearing light pale pink medical examination gloves gently supporting the heel in a calm professional foot-care consultation. Correct anatomy, five toes only. Framing: side view, relaxed foot diagonally across the lower center, cropped hands, no faces, no text. Environment: minimal warm beige and blush consultation room, softly blurred pink linen in background. Lighting: soft natural window light, editorial high-end wellness photography, realistic skin texture. Color palette: creamy white, sand beige, dusty blush pink. No tools, no nail polish, no flowers, no branding, no watermark. Portrait composition suitable for 4:5 crop.

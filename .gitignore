@@ -1,0 +1,13 @@
+node_modules/
+.env
+.env.*
+!.env.example
+.openai/
+.sites-runtime/
+.sites-checkout/
+*.log
+*.zip
+*.tar.gz
+*.tgz
+.DS_Store
+Thumbs.db
